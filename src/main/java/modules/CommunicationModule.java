@@ -4,7 +4,7 @@ import com.google.inject.Inject;
 
 public class CommunicationModule {
 
-    @Inject
+   /* @Inject
     private Logger logger;
 
     @Inject
@@ -18,6 +18,6 @@ public class CommunicationModule {
 
     public boolean sendMessage(String message) {
         return communicator.sendMessage(message);
-    }
+    }*/
 
 }
